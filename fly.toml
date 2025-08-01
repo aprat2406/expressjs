@@ -1,15 +1,15 @@
-# fly.toml app configuration file generated for expressjs-uteaug on 2025-07-08T08:33:51Z
+# fly.toml app configuration file generated for expressjs-3pxn9a on 2025-07-28T07:31:54Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'expressjs-uteaug'
-primary_region = 'bom'
+app = 'expressjs-3pxn9a'
+primary_region = 'yyz'
 
 [build]
 
 [http_service]
-  internal_port = 3000
+  internal_port = 8080
   force_https = true
   auto_stop_machines = 'stop'
   auto_start_machines = true
