@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for expressjs-3pxn9a on 2025-07-28T07:31:54Z
+# fly.toml app configuration file generated for js-app-fly on 2025-08-04T05:59:11Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'expressjs-3pxn9a'
+app = 'js-app-fly'
 primary_region = 'yyz'
 
 [build]
