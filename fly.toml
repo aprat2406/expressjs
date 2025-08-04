@@ -1,10 +1,10 @@
-# fly.toml app configuration file generated for bombayjs on 2025-08-04T06:11:59Z
+# fly.toml app configuration file generated for expressjs-grotva on 2025-08-04T06:23:42Z
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'bombayjs'
-primary_region = 'bom'
+app = 'expressjs-grotva'
+primary_region = 'yyz'
 
 [build]
 
